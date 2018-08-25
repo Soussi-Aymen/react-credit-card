@@ -1,0 +1,52 @@
+.App {
+  background-color: #00008b;
+  border: 2px solid;
+  border-radius: 8px;
+  width: 400px;
+  color: aliceblue;
+}
+
+.card-header {
+  text-align: right;
+  padding-right: 30px;
+}
+.number {
+  color: #e6d399;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  font-size: 150%;
+}
+
+.reference {
+  text-align: right;
+  padding-right: 30px;
+}
+
+.visa-mastercard {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-right: 10px;
+  padding-bottom: 20px;
+}
+
+.icon {
+  padding-left: 20px;
+}
+
+.card-holder {
+  padding-left: 20px;
+  padding-top: 40px;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
